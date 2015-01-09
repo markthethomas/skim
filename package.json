@@ -1,0 +1,25 @@
+{
+  "name": "skim",
+  "version": "0.0.1",
+  "description": "Simple configurable web scraper written for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:markthethomas/skim.git"
+  },
+  "keywords": [
+    "scraper",
+    "express",
+    "request",
+    "cheerio"
+  ],
+  "author": "mark thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markthethomas/skim/issues"
+  },
+  "homepage": "https://github.com/markthethomas/skim"
+}
